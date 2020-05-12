@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="注销" />
+      <item value="正常" />
       <item value="nonce" />
       <item value="The value is used for character storage." />
       <item value="封堵" />
@@ -8,7 +10,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="ENGLISH" value="4" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
