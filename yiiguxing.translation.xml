@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="monthly" />
       <item value="a pair of" />
       <item value="pair" />
       <item value="注销" />
@@ -12,7 +13,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="ENGLISH" value="5" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
