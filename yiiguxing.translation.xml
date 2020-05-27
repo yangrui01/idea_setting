@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="发件" />
       <item value="收件" />
       <item value="告警" />
       <item value="发邮件箱" />
