@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="收件" />
+      <item value="告警" />
+      <item value="发邮件箱" />
+      <item value="发件箱" />
+      <item value="password" />
       <item value="fake" />
       <item value="compress" />
       <item value="denoted" />
@@ -37,7 +42,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="ENGLISH" value="25" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
