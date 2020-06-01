@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="protocol" />
+      <item value="protocal" />
+      <item value="destination" />
       <item value="The Java Virtual Machine exits when the only   threads running are all daemon threads" />
       <item value="prepare" />
       <item value="prapare" />
