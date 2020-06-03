@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重新扫描" />
+      <item value="重新" />
       <item value="危害" />
       <item value="Ambiguity" />
       <item value="Stale" />
@@ -49,8 +51,6 @@
       <item value="pair" />
       <item value="注销" />
       <item value="正常" />
-      <item value="nonce" />
-      <item value="The value is used for character storage." />
     </histories>
     <option name="languageScores">
       <map>
