@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="失败" />
+      <item value="进行中" />
+      <item value="位置" />
       <item value="brief" />
       <item value="Concrete" />
       <item value="terminate" />
@@ -48,14 +51,11 @@
       <item value="derived" />
       <item value="make sense" />
       <item value="up to date" />
-      <item value="backwards" />
-      <item value="violation" />
-      <item value="evaluation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="ENGLISH" value="29" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
