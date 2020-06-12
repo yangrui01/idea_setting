@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Occur" />
+      <item value="recent" />
       <item value="radar" />
       <item value="雷达" />
       <item value="百分比" />
@@ -49,8 +51,6 @@
       <item value="trend" />
       <item value="report" />
       <item value="fires up" />
-      <item value="transmit" />
-      <item value="A special cron expression value that indicates a disabled trigger" />
     </histories>
     <option name="languageScores">
       <map>
