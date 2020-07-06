@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="perform" />
+      <item value="interceptor" />
+      <item value="interposes" />
       <item value="Indicates" />
       <item value="交互" />
       <item value="inactive" />
@@ -48,9 +51,6 @@
       <item value="收件" />
       <item value="告警" />
       <item value="发邮件箱" />
-      <item value="发件箱" />
-      <item value="password" />
-      <item value="fake" />
     </histories>
     <option name="languageScores">
       <map>
