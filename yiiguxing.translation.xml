@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="filing" />
+      <item value="durtion" />
+      <item value="上线时间" />
+      <item value="阶段" />
+      <item value="业务名" />
+      <item value="业务名称" />
+      <item value="评估计划" />
       <item value="perform" />
       <item value="interceptor" />
       <item value="interposes" />
@@ -44,18 +51,11 @@
       <item value="The Java Virtual Machine exits when the only   threads running are all daemon threads" />
       <item value="prepare" />
       <item value="prapare" />
-      <item value="alarm" />
-      <item value="alerm" />
-      <item value="配置" />
-      <item value="发件" />
-      <item value="收件" />
-      <item value="告警" />
-      <item value="发邮件箱" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="34" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
