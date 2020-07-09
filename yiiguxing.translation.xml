@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on-the-wire" />
+      <item value="the task is scheduled for one-time execution" />
+      <item value="one-time" />
       <item value="subscription" />
       <item value="durable" />
       <item value="inflight" />
@@ -48,9 +51,6 @@
       <item value="terminate" />
       <item value="分割符" />
       <item value="级联" />
-      <item value="进程" />
-      <item value="弱口令" />
-      <item value="修复" />
     </histories>
     <option name="languageScores">
       <map>
