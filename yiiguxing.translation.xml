@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="定期核查" />
       <item value="工单号" />
       <item value="filing" />
       <item value="durtion" />
@@ -50,7 +51,6 @@
       <item value="protocal" />
       <item value="destination" />
       <item value="The Java Virtual Machine exits when the only   threads running are all daemon threads" />
-      <item value="prepare" />
     </histories>
     <option name="languageScores">
       <map>
