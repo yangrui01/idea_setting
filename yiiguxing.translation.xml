@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transport" />
+      <item value="acknowledgement" />
+      <item value="二本院校" />
+      <item value="一本线" />
+      <item value="wire" />
       <item value="quiesce" />
       <item value="on-the-wire" />
       <item value="the task is scheduled for one-time execution" />
@@ -46,16 +51,11 @@
       <item value="暴破中" />
       <item value="失败" />
       <item value="进行中" />
-      <item value="位置" />
-      <item value="brief" />
-      <item value="Concrete" />
-      <item value="terminate" />
-      <item value="分割符" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="36" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
