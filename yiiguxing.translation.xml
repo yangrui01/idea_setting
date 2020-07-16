@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="take place" />
+      <item value="designated" />
       <item value="perform" />
       <item value="Evacuation" />
       <item value="string" />
@@ -49,8 +51,6 @@
       <item value="durtion" />
       <item value="上线时间" />
       <item value="阶段" />
-      <item value="业务名" />
-      <item value="业务名称" />
     </histories>
     <option name="languageScores">
       <map>
