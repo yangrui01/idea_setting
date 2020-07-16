@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hysteresis" />
+      <item value="expunge" />
+      <item value="modulo" />
+      <item value="stale" />
+      <item value="collisions" />
       <item value="take place" />
       <item value="designated" />
       <item value="perform" />
@@ -46,11 +51,6 @@
       <item value="实施阶段" />
       <item value="实施" />
       <item value="定期核查" />
-      <item value="工单号" />
-      <item value="filing" />
-      <item value="durtion" />
-      <item value="上线时间" />
-      <item value="阶段" />
     </histories>
     <option name="languageScores">
       <map>
