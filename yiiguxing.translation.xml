@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="congress" />
       <item value="已经" />
       <item value="收到" />
       <item value="hysteresis" />
@@ -50,11 +51,10 @@
       <item value="功能" />
       <item value="配置" />
       <item value="用户规模" />
-      <item value="实施阶段" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
+        <entry key="CHINESE" value="42" />
         <entry key="ENGLISH" value="42" />
         <entry key="FRENCH" value="2" />
       </map>
