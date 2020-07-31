@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="kind" />
       <item value="farthest" />
       <item value="present" />
       <item value="fairness" />
@@ -50,12 +51,11 @@
       <item value="重新评估" />
       <item value="技术实现方式" />
       <item value="流程" />
-      <item value="功能" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="45" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
