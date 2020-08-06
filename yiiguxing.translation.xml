@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="还原" />
+      <item value="Dock" />
       <item value="启用" />
       <item value="策略" />
       <item value="identify" />
@@ -49,13 +51,11 @@
       <item value="acknowledgement" />
       <item value="二本院校" />
       <item value="一本线" />
-      <item value="wire" />
-      <item value="quiesce" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
