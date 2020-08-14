@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="第三方" />
       <item value="rarely" />
       <item value="flavor of" />
       <item value="flavor" />
@@ -50,12 +51,11 @@
       <item value="八月" />
       <item value="Unconditionally" />
       <item value="parent" />
-      <item value="auditing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
