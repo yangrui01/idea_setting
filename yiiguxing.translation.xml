@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="canonical" />
       <item value="semi-persistent" />
       <item value="accumulative" />
       <item value="累计" />
@@ -50,7 +51,6 @@
       <item value="perform" />
       <item value="Evacuation" />
       <item value="string" />
-      <item value="Deprecated symbol used, consult docs for better alternative " />
     </histories>
     <option name="languageScores">
       <map>
