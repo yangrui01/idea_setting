@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sequential" />
       <item value="解压" />
       <item value="canonical" />
       <item value="semi-persistent" />
@@ -50,11 +51,10 @@
       <item value="take place" />
       <item value="designated" />
       <item value="perform" />
-      <item value="Evacuation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
+        <entry key="CHINESE" value="58" />
         <entry key="ENGLISH" value="58" />
         <entry key="FRENCH" value="2" />
       </map>
