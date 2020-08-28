@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="backend" />
       <item value="sequential" />
       <item value="解压" />
       <item value="canonical" />
@@ -50,7 +51,6 @@
       <item value="collisions" />
       <item value="take place" />
       <item value="designated" />
-      <item value="perform" />
     </histories>
     <option name="languageScores">
       <map>
