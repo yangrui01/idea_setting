@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="独有" />
+      <item value="人为" />
+      <item value="人为的" />
+      <item value="人造的" />
+      <item value="人" />
+      <item value="认为的" />
+      <item value="具备" />
+      <item value="解决方案" />
+      <item value="harm" />
+      <item value="harmful" />
+      <item value="目的" />
       <item value="Pre-built JDK shared indexes reduce the indexing time and CPU load" />
       <item value="shared" />
       <item value="backend" />
@@ -19,7 +30,6 @@
       <item value="well-formedness" />
       <item value="命中" />
       <item value="上报" />
-      <item value="harm" />
       <item value="优先级" />
       <item value="告警" />
       <item value="保留" />
@@ -41,21 +51,11 @@
       <item value="sample" />
       <item value="kind" />
       <item value="farthest" />
-      <item value="present" />
-      <item value="fairness" />
-      <item value="congress" />
-      <item value="已经" />
-      <item value="收到" />
-      <item value="hysteresis" />
-      <item value="expunge" />
-      <item value="modulo" />
-      <item value="stale" />
-      <item value="collisions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
