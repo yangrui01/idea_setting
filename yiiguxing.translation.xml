@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="impact" />
       <item value="BSON is de­signed to be tra­versed eas­ily" />
       <item value="漏洞特征库" />
       <item value="独有" />
@@ -50,7 +51,6 @@
       <item value="protocal" />
       <item value="黑名单" />
       <item value="deflated" />
-      <item value="sample" />
     </histories>
     <option name="languageScores">
       <map>
