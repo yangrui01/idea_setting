@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BSON is de­signed to be tra­versed eas­ily" />
       <item value="漏洞特征库" />
       <item value="独有" />
       <item value="人为" />
@@ -50,11 +51,10 @@
       <item value="黑名单" />
       <item value="deflated" />
       <item value="sample" />
-      <item value="kind" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
+        <entry key="CHINESE" value="60" />
         <entry key="ENGLISH" value="60" />
         <entry key="FRENCH" value="2" />
       </map>
