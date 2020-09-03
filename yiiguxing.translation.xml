@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="straightforward" />
+      <item value="as well as" />
+      <item value="pseudo" />
+      <item value="Secondary" />
+      <item value="pile" />
+      <item value="starvation" />
+      <item value="uniprocessors" />
       <item value="impact" />
       <item value="BSON is de­signed to be tra­versed eas­ily" />
       <item value="漏洞特征库" />
@@ -44,18 +51,11 @@
       <item value="还原" />
       <item value="Dock" />
       <item value="启用" />
-      <item value="策略" />
-      <item value="identify" />
-      <item value="protocol" />
-      <item value="protocl" />
-      <item value="protocal" />
-      <item value="黑名单" />
-      <item value="deflated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
