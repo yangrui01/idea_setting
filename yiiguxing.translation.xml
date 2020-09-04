@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exhaustive" />
+      <item value="Reclamation" />
+      <item value="simulate" />
       <item value="Registering a DeadEvent subscriber is useful for debugging or logging, as it can detect  * misconfigurations in a system's event distribution" />
       <item value="The" />
       <item value="This" />
@@ -48,14 +51,11 @@
       <item value="优先级" />
       <item value="告警" />
       <item value="保留" />
-      <item value="动态" />
-      <item value="文件鉴定" />
-      <item value="名单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
