@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Flattens" />
       <item value="It extends the observer pattern to support sequences of data/events and adds operators that allow you to compose sequences together declaratively while abstracting away concerns about things like low-level threading, synchronization, thread-safety and concurrent data structures." />
       <item value="straightforward" />
       <item value="as well as" />
@@ -50,7 +51,6 @@
       <item value="指定" />
       <item value="debounced" />
       <item value="还原" />
-      <item value="Dock" />
     </histories>
     <option name="languageScores">
       <map>
