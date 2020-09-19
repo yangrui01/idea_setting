@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Estimated" />
+      <item value="EstimatedEstimated" />
       <item value="reconstructing" />
       <item value="normalize" />
       <item value="lexicographically" />
@@ -49,12 +51,10 @@
       <item value="excess" />
       <item value="degraded" />
       <item value="possess" />
-      <item value="supplying" />
-      <item value="On-demand construction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
+        <entry key="CHINESE" value="156" />
         <entry key="ENGLISH" value="156" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="1" />
