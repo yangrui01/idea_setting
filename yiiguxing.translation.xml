@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="arbitrary" />
+      <item value="security hint" />
       <item value="By default, all endpoints except for shutdown are enabled" />
       <item value="Estimated" />
       <item value="EstimatedEstimated" />
@@ -49,8 +51,6 @@
       <item value="lockups" />
       <item value="handoffs" />
       <item value="interacts" />
-      <item value="excess" />
-      <item value="degraded" />
     </histories>
     <option name="languageScores">
       <map>
