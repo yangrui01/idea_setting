@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sheild" />
       <item value="terse" />
       <item value="illegal" />
       <item value="diacritic" />
@@ -50,7 +51,6 @@
       <item value="characteristics" />
       <item value="contention" />
       <item value="Interleave" />
-      <item value="maintenance" />
     </histories>
     <option name="languageScores">
       <map>
