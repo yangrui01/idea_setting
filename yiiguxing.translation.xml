@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="terse" />
+      <item value="illegal" />
       <item value="diacritic" />
       <item value="only focusable applications can be ignored" />
       <item value="focusable" />
@@ -49,8 +51,6 @@
       <item value="contention" />
       <item value="Interleave" />
       <item value="maintenance" />
-      <item value="abruptly" />
-      <item value="overhead" />
     </histories>
     <option name="languageScores">
       <map>
