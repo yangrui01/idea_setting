@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="focusable" />
+      <item value="accidental" />
+      <item value="bloating" />
       <item value="sponsor" />
       <item value="违规" />
       <item value="redeem" />
@@ -48,9 +51,6 @@
       <item value="overhead" />
       <item value="encounter" />
       <item value="artificially" />
-      <item value="bursts" />
-      <item value="transient" />
-      <item value="appropriate" />
     </histories>
     <option name="languageScores">
       <map>
