@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="conversion" />
       <item value="mutex" />
       <item value="第五空间" />
       <item value="sparse" />
@@ -50,12 +51,11 @@
       <item value="contended" />
       <item value="constraints" />
       <item value="impose" />
-      <item value="protocal" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="ENGLISH" value="162" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
