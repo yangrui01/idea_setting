@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Git creates a new commit (M) that is referred to as a merge commit that results from combining the changes from your feature branch and master from the point where the two branches diverged." />
       <item value="conversion" />
       <item value="mutex" />
       <item value="第五空间" />
@@ -50,11 +51,10 @@
       <item value="postpone" />
       <item value="contended" />
       <item value="constraints" />
-      <item value="impose" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
+        <entry key="CHINESE" value="162" />
         <entry key="ENGLISH" value="162" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="1" />
