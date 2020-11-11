@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="异常" />
       <item value="外部" />
       <item value="第三方" />
       <item value="Git creates a new commit (M) that is referred to as a merge commit that results from combining the changes from your feature branch and master from the point where the two branches diverged." />
@@ -50,7 +51,6 @@
       <item value="vice-versa" />
       <item value="reentrancy" />
       <item value="constructed" />
-      <item value="postpone" />
     </histories>
     <option name="languageScores">
       <map>
