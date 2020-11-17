@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="offer" />
+      <item value="preferable" />
       <item value="accommodates" />
       <item value="COMPLETING" />
       <item value="bookkeeping" />
@@ -49,8 +51,6 @@
       <item value="Prematurely reached end of stream" />
       <item value="compound" />
       <item value="归属地" />
-      <item value="derived from" />
-      <item value="当天" />
     </histories>
     <option name="languageScores">
       <map>
