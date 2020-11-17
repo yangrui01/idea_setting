@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="permitted" />
       <item value="offer" />
       <item value="preferable" />
       <item value="accommodates" />
@@ -50,12 +51,11 @@
       <item value="sparse" />
       <item value="Prematurely reached end of stream" />
       <item value="compound" />
-      <item value="归属地" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
