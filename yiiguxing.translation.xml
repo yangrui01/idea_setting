@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="资料" />
       <item value="封闭" />
       <item value="Abruptly" />
       <item value="permitted" />
@@ -50,7 +51,6 @@
       <item value="conversion" />
       <item value="mutex" />
       <item value="第五空间" />
-      <item value="sparse" />
     </histories>
     <option name="languageScores">
       <map>
