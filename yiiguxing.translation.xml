@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sibling" />
+      <item value="interoperable" />
+      <item value="intended to" />
+      <item value="solely" />
       <item value="farthest" />
       <item value="retrieving" />
       <item value="解析" />
@@ -47,15 +51,11 @@
       <item value="Operatant" />
       <item value="设备" />
       <item value="类别" />
-      <item value="异常" />
-      <item value="外部" />
-      <item value="第三方" />
-      <item value="Git creates a new commit (M) that is referred to as a merge commit that results from combining the changes from your feature branch and master from the point where the two branches diverged." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="198" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="203" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
