@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="容量" />
       <item value="信号" />
       <item value="实际" />
       <item value="modifier" />
@@ -50,7 +51,6 @@
       <item value="arises" />
       <item value="conceptual" />
       <item value="整改" />
-      <item value="凌晨" />
     </histories>
     <option name="languageScores">
       <map>
