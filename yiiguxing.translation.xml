@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="switch" />
       <item value="fetch" />
       <item value="completion" />
       <item value="comple" />
@@ -50,7 +51,6 @@
       <item value="tuning" />
       <item value="urged" />
       <item value="billion" />
-      <item value="million" />
     </histories>
     <option name="languageScores">
       <map>
