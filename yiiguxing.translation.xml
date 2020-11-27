@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fetch" />
+      <item value="completion" />
+      <item value="comple" />
       <item value="容量" />
       <item value="信号" />
       <item value="实际" />
@@ -48,13 +51,10 @@
       <item value="urged" />
       <item value="billion" />
       <item value="million" />
-      <item value="arises" />
-      <item value="conceptual" />
-      <item value="整改" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
+        <entry key="CHINESE" value="204" />
         <entry key="ENGLISH" value="204" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
