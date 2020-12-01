@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="formal" />
+      <item value="designated" />
+      <item value="statement" />
       <item value="switch" />
       <item value="fetch" />
       <item value="completion" />
@@ -48,14 +51,11 @@
       <item value="construction" />
       <item value="accommodate" />
       <item value="arbitrary" />
-      <item value="tuning" />
-      <item value="urged" />
-      <item value="billion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="CHINESE" value="205" />
+        <entry key="ENGLISH" value="206" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
