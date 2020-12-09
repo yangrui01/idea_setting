@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tencentapi" />
+      <item value="least" />
+      <item value="available" />
       <item value="bound Sql" />
       <item value="latch" />
       <item value="instrumentation" />
@@ -48,18 +51,16 @@
       <item value="permitted" />
       <item value="offer" />
       <item value="preferable" />
-      <item value="accommodates" />
-      <item value="COMPLETING" />
-      <item value="bookkeeping" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="223" />
+        <entry key="CHINESE" value="224" />
         <entry key="ENGLISH" value="224" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
