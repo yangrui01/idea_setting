@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="696" />
+    <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="派单" />
+      <item value="pd dj" />
+      <item value="pd dm" />
+      <item value="pd d" />
+      <item value="pd dn" />
+      <item value="pd" />
+      <item value="Status" />
       <item value="counterparts" />
       <item value="sercurity Event" />
       <item value="cut Time" />
@@ -44,13 +53,6 @@
       <item value="fetch" />
       <item value="completion" />
       <item value="comple" />
-      <item value="容量" />
-      <item value="信号" />
-      <item value="实际" />
-      <item value="modifier" />
-      <item value="Sibling" />
-      <item value="interoperable" />
-      <item value="intended to" />
     </histories>
     <option name="languageScores">
       <map>
