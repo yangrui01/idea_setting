@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="properties" />
       <item value="派单" />
       <item value="pd dj" />
       <item value="pd dm" />
@@ -52,7 +53,6 @@
       <item value="switch" />
       <item value="fetch" />
       <item value="completion" />
-      <item value="comple" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608718466334" />
+    <option name="lastTrimTime" value="1609757530099" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
