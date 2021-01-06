@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="transforming" />
+      <item value="Filter Input Stream" />
       <item value="properties" />
       <item value="派单" />
       <item value="pd dj" />
@@ -42,7 +44,6 @@
       <item value="barging" />
       <item value="supported" />
       <item value="Abstract Queued Synchronizer" />
-      <item value="transforming" />
       <item value="A" />
       <item value="验证" />
       <item value="latest" />
@@ -52,7 +53,6 @@
       <item value="statement" />
       <item value="switch" />
       <item value="fetch" />
-      <item value="completion" />
     </histories>
     <option name="languageScores">
       <map>
