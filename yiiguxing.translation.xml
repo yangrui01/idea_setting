@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="radix" />
+      <item value="radixradix" />
+      <item value="signum" />
+      <item value="signumsignum" />
+      <item value="magnitude" />
+      <item value="magnitudemagnitude" />
       <item value="transforming" />
       <item value="Filter Input Stream" />
       <item value="properties" />
@@ -47,12 +53,6 @@
       <item value="A" />
       <item value="验证" />
       <item value="latest" />
-      <item value="威胁情报" />
-      <item value="formal" />
-      <item value="designated" />
-      <item value="statement" />
-      <item value="switch" />
-      <item value="fetch" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,5 +76,6 @@
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
+    <option name="targetLanguageSelection" value="LAST" />
   </component>
 </application>
