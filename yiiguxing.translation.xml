@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="deduce" />
       <item value="radix" />
       <item value="radixradix" />
       <item value="signum" />
@@ -52,12 +53,11 @@
       <item value="Abstract Queued Synchronizer" />
       <item value="A" />
       <item value="验证" />
-      <item value="latest" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="ENGLISH" value="227" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609757530099" />
+    <option name="lastTrimTime" value="1611569127721" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
