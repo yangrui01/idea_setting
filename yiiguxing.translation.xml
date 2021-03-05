@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="eversec" />
       <item value="deduce" />
       <item value="radix" />
       <item value="radixradix" />
@@ -52,7 +53,6 @@
       <item value="supported" />
       <item value="Abstract Queued Synchronizer" />
       <item value="A" />
-      <item value="验证" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611569127721" />
+    <option name="lastTrimTime" value="1614915350294" />
   </component>
 </application>
