@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="social" />
+      <item value="soci&#10;al" />
+      <item value="socal" />
+      <item value="socai\l" />
+      <item value="socail" />
+      <item value="Socail" />
       <item value="eversec" />
       <item value="deduce" />
       <item value="radix" />
@@ -47,12 +53,6 @@
       <item value="renouncement" />
       <item value="greedy" />
       <item value="acquisition" />
-      <item value="thereby" />
-      <item value="barge" />
-      <item value="barging" />
-      <item value="supported" />
-      <item value="Abstract Queued Synchronizer" />
-      <item value="A" />
     </histories>
     <option name="languageScores">
       <map>
