@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="compose" />
       <item value="stealth" />
       <item value="Device Type" />
       <item value="Manufacturer" />
@@ -52,12 +53,11 @@
       <item value="interspersed" />
       <item value="unbiased" />
       <item value="recontend" />
-      <item value="starvation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="230" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="231" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
