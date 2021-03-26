@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="Extract" />
       <item value="compose" />
       <item value="stealth" />
       <item value="Device Type" />
@@ -52,7 +53,6 @@
       <item value="liabilities" />
       <item value="interspersed" />
       <item value="unbiased" />
-      <item value="recontend" />
     </histories>
     <option name="languageScores">
       <map>
