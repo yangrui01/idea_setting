@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="descend" />
+      <item value="tail" />
       <item value="Inteval" />
       <item value="lettuce" />
       <item value="trials" />
@@ -16,12 +18,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617546070855" />
+    <option name="lastTrimTime" value="1618200224294" />
   </component>
 </application>
