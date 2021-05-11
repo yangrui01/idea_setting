@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="introduce" />
       <item value="If abrupt, then workerCount wasn't adjusted" />
       <item value="Abrupt" />
       <item value="Abruptly" />
@@ -40,6 +41,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620284311269" />
+    <option name="lastTrimTime" value="1620725274773" />
   </component>
 </application>
