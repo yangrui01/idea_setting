@@ -3,6 +3,15 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="unboxed" />
+      <item value="unbox" />
+      <item value="频繁" />
+      <item value="pb fj" />
+      <item value="p" />
+      <item value="pk" />
+      <item value="pk fj" />
+      <item value="避免&#10;" />
+      <item value="bi mm" />
       <item value="MANDATORY" />
       <item value="analogous" />
       <item value="relinquishes" />
@@ -44,13 +53,6 @@
       <item value="Inteval" />
       <item value="lettuce" />
       <item value="trials" />
-      <item value="read" />
-      <item value="Ultimate" />
-      <item value="bear&#10;" />
-      <item value="bear" />
-      <item value="bea" />
-      <item value="The value is used for character storage." />
-      <item value="封堵" />
     </histories>
     <option name="languageScores">
       <map>
@@ -60,6 +62,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620725274773" />
+    <option name="lastTrimTime" value="1621239263604" />
   </component>
 </application>
