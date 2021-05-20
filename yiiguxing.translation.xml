@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="culling" />
       <item value="because existing ones died since last checking" />
       <item value="saturated" />
       <item value="unboxed" />
@@ -38,7 +39,6 @@
       <item value="Abrupt" />
       <item value="Abruptly" />
       <item value="Unless" />
-      <item value="culling" />
       <item value="circumstances" />
       <item value="mandatory" />
       <item value="服务" />
