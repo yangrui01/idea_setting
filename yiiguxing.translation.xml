@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="Striped" />
       <item value="Eligible" />
       <item value="culling" />
       <item value="because existing ones died since last checking" />
@@ -52,7 +53,6 @@
       <item value="canonical&#10;" />
       <item value="canonical" />
       <item value="descend" />
-      <item value="tail" />
     </histories>
     <option name="languageScores">
       <map>
