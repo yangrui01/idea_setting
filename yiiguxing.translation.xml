@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="Ensure that a release propagates, even if there are other in-progress acquiresreleases. This proceeds in the usual way of trying to unparkSuccessor of head if it needs signal. But if it does not, status is set to PROPAGATE to ensure that upon release, propagation continues. Additionally, we must loop in case a new node is added while we are doing this. Also, unlike other uses of unparkSuccessor, we need to know if CAS to reset status fails, if so rechecking." />
+      <item value="Thread to unpark is held in successor, which is normally just the next node. But if cancelled or apparently null, traverse backwards from tail to find the actual non-cancelled successor." />
+      <item value="Successor" />
+      <item value="If status is negative (i.e., possibly needing signal) try to clear in anticipation of signalling. It is OK if this fails or if status is changed by waiting thread." />
+      <item value="anticipation" />
+      <item value="Try the fast path of enq; backup to full enq on failure" />
+      <item value="diagnostics" />
+      <item value="notion" />
       <item value="Striped" />
       <item value="Eligible" />
       <item value="culling" />
@@ -45,14 +53,6 @@
       <item value="mandatory" />
       <item value="服务" />
       <item value="fu wu" />
-      <item value="剩余&#10;" />
-      <item value="ug" />
-      <item value="spin&#10;" />
-      <item value="spin" />
-      <item value="Prefix must be in canonical form" />
-      <item value="canonical&#10;" />
-      <item value="canonical" />
-      <item value="descend" />
     </histories>
     <option name="languageScores">
       <map>
