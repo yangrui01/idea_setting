@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="Composite" />
       <item value="appropriate" />
       <item value="minCapacity is usually close to size, so this is a win" />
       <item value="deprecate" />
@@ -54,12 +55,11 @@
       <item value="zi yy" />
       <item value="zi" />
       <item value="最近" />
-      <item value="zv jm" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
