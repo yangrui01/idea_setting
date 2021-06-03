@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="has Queued Predecessors" />
       <item value="retrieval" />
       <item value="Transport" />
       <item value="honored" />
@@ -54,12 +55,11 @@
       <item value="bi mm" />
       <item value="MANDATORY" />
       <item value="analogous" />
-      <item value="relinquishes" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="POLISH" value="1" />
       </map>
     </option>
