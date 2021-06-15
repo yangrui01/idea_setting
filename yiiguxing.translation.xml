@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="spuriously" />
       <item value="mesh" />
       <item value="interned" />
       <item value="Recursive" />
@@ -54,11 +55,10 @@
       <item value="saturated" />
       <item value="unboxed" />
       <item value="unbox" />
-      <item value="频繁" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
+        <entry key="CHINESE" value="45" />
         <entry key="ENGLISH" value="45" />
         <entry key="POLISH" value="1" />
       </map>
