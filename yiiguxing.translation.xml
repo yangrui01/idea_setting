@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="authenticate" />
       <item value="dim screen when inactive" />
       <item value="dim screen when inacti" />
       <item value="dim screen when " />
@@ -54,7 +55,6 @@
       <item value="dep" />
       <item value="de" />
       <item value="过时&#10;" />
-      <item value="g" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624109813272" />
+    <option name="lastTrimTime" value="1625637735208" />
   </component>
 </application>
