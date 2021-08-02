@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="开始时间不能大于结束时间 " />
       <item value="metric size out of array bounds" />
       <item value="metric size out of  bounds" />
       <item value="metric size out of bounds" />
@@ -54,7 +55,6 @@
       <item value="debugging process  executing with only once &#10;" />
       <item value="debugging process definition executing with only once &#10;" />
       <item value="debugging process defini executing with only once &#10;" />
-      <item value="debugging process defin executing with only once &#10;" />
     </histories>
     <option name="languageScores">
       <map>
