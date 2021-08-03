@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="Record" />
       <item value="开始时间不能大于结束时间&#10;&#10; " />
       <item value="开始时间不能大于结束时间&#10; " />
       <item value="开始时间不能大于结束时间 " />
@@ -54,12 +55,11 @@
       <item value="debugging process schedule executing with only once &#10;" />
       <item value="debugging process sche executing with only once &#10;" />
       <item value="debugging process sch executing with only once &#10;" />
-      <item value="debugging process  executing with only once &#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="ENGLISH" value="87" />
         <entry key="POLISH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
