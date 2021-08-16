@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="602" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="BADGE" />
+      <item value="TOUSER" />
       <item value="MANA" />
       <item value="DISTURBMANA" />
       <item value="DISTURB" />
@@ -53,12 +55,10 @@
       <item value=" If set then the tsquery will return data with the desired aggregate rollup leve" />
       <item value="rollup&#10;" />
       <item value="roll" />
-      <item value="OPAQUE" />
-      <item value="Replay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
+        <entry key="CHINESE" value="121" />
         <entry key="ENGLISH" value="108" />
         <entry key="POLISH" value="1" />
         <entry key="LATIN" value="1" />
