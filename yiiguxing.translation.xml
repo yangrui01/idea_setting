@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="602" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="MANA" />
+      <item value="DISTURBMANA" />
+      <item value="DISTURB" />
       <item value="Friend" />
       <item value="Bother&#10;" />
       <item value="capabilities" />
@@ -52,14 +55,11 @@
       <item value="roll" />
       <item value="OPAQUE" />
       <item value="Replay" />
-      <item value="add task to stand by list" />
-      <item value="checkpoint" />
-      <item value="sophisticated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="108" />
         <entry key="POLISH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
