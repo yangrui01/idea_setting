@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="602" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="Friend" />
+      <item value="Bother&#10;" />
       <item value="capabilities" />
       <item value="cumulative" />
       <item value="非集群模式&#10;" />
@@ -53,19 +55,17 @@
       <item value="add task to stand by list" />
       <item value="checkpoint" />
       <item value="sophisticated" />
-      <item value="Ephemeral" />
-      <item value="quorum" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="107" />
         <entry key="POLISH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628589638138" />
+    <option name="lastTrimTime" value="1629096411779" />
   </component>
 </application>
