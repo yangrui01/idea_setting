@@ -6,6 +6,10 @@
           <option name="url" value="http://192.168.90.75:3000" />
           <option name="userName" value="yanghouguang" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.openserver.cn:8089" />
+          <option name="userName" value="yanghouguang" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
