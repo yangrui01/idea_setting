@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="602" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="slice" />
+      <item value="Attestation" />
       <item value="Assign" />
       <item value="repority" />
       <item value="repo" />
@@ -53,19 +55,18 @@
       <item value="Areadly" />
       <item value="Record" />
       <item value="开始时间不能大于结束时间&#10;&#10; " />
-      <item value="开始时间不能大于结束时间&#10; " />
-      <item value="开始时间不能大于结束时间 " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="POLISH" value="1" />
+        <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629096411779" />
+    <option name="lastTrimTime" value="1629684247086" />
   </component>
 </application>
