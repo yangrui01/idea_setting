@@ -12,6 +12,11 @@
                       <FeaturePluginData displayName="JSR45 Compatible Server" pluginName="Debugger Support for JSP (JSR45)" pluginId="JSR45Plugin" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+                    <value>
+                      <FeaturePluginData displayName="Tomcat Server" pluginName="Tomcat and TomEE" pluginId="Tomcat" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" bundled="true" />
@@ -245,6 +250,11 @@
                   <entry key="TestNG">
                     <value>
                       <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="TomeeConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="TomEE Server" pluginName="Tomcat and TomEE" pluginId="Tomcat" bundled="true" />
                     </value>
                   </entry>
                   <entry key="Tox">
