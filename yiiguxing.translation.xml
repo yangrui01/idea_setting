@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="602" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="Colon" />
       <item value="mandatory" />
       <item value="additivity&#10;" />
       <item value="attestation" />
@@ -54,7 +55,6 @@
       <item value="aread" />
       <item value="aready" />
       <item value="aree" />
-      <item value="are" />
     </histories>
     <option name="languageScores">
       <map>
