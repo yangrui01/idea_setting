@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="602" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="ceil" />
       <item value="Colon" />
       <item value="mandatory" />
       <item value="additivity&#10;" />
@@ -54,7 +55,6 @@
       <item value="areadly" />
       <item value="aread" />
       <item value="aready" />
-      <item value="aree" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631843941797" />
+    <option name="lastTrimTime" value="1632639661674" />
   </component>
 </application>
