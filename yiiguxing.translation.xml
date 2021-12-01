@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="602" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="The special precision -1 uses the smallest number of digits" />
       <item value="FormatFloat converts the floating-point number f to a string, according to the format fmt and precision prec. It rounds the result assuming that the original was obtained from a floating-point value of bitSize bits (32 for float32, 64 for float64)." />
       <item value="precision" />
       <item value="exponent" />
@@ -54,12 +55,11 @@
       <item value="非ji" />
       <item value="fw" />
       <item value="f e" />
-      <item value="Point&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
