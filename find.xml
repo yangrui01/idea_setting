@@ -10,10 +10,10 @@
     <mask>*.yml</mask>
     <mask>*.vue</mask>
     <mask>*.sql</mask>
-    <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.json</mask>
+    <mask>*.properties</mask>
     <mask>*</mask>
   </component>
 </application>
