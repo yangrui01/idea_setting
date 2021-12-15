@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="602" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="front&#10;" />
       <item value="Tier" />
       <item value="Composite" />
       <item value="Slice: The size specifies the length. The capacity of the slice is equal to its length. A second integer argument may be provided to specify a different capacity; it must be no smaller than the length. For example, make([]int, 0, 10) allocates an underlying array of size 10 and returns a slice of length 0 and capacity 10 that is backed by this underlying array." />
@@ -54,11 +55,10 @@
       <item value="cumulative" />
       <item value="非集群模式&#10;" />
       <item value="非集群" />
-      <item value="非ji q" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
+        <entry key="CHINESE" value="148" />
         <entry key="ENGLISH" value="136" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
